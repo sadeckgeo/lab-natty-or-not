@@ -23,18 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Usar as AIs generativas como suporte à criação de códigos em Javascript dentro do Google Earth Engine para processamento digital de imagens
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e Google Earth Engine
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Basicamente usamos o ChatGPT com propts específicos para criação dos códigos e posterormente aplicamos esses no Google Earth Engine.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foram gerados vários código que executaram direto e outros que foram necessária a intervenção para ujuste de coleções ou alguma função que o GEE não tinha de forma nativa e o GPT criou como um javascript por fora e o GEE não conseguiu interpretar. No geral o resultado foi muito bom!
 
 ## 💭 Reflexão (Opcional)
+Essa prática foi muito interessante pq reduziu o tempo de criação de código em  muitas horas e agilizou o desenvolvimento. No entando ainda fica claro que ter o conhecimento ajuda na hora de ajustes finos. Outra questão interessante foi que usuários sem muita experiencia em programação e desenvolvimento conseguiram obter resultados bons.
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
